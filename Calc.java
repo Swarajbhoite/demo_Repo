@@ -1,4 +1,8 @@
 class Calc{
+        void div(){
+            // div method added in b3 branch 
+
+	}
 
 	void add(){
 
