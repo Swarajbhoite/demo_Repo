@@ -13,6 +13,13 @@ class Calc{
 
 
 	}
+      
+        void mul (){
+
+         
+          //mul method added in b2
+
+	}
 
 	public static void main(String[] args){
 
